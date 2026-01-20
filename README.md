@@ -1,12 +1,10 @@
 # ABRAHAM SOLORIO BAUTISTA
-__________________________
-
+_________________________
 ## INFO
 
-+ Mexican
 + 41 Years old
-+ Married
 + Student at [UofA](https://coned.ualberta.ca/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1031990#collapse_1)
++ Bachelor of Computer Systems Engineering
 
 ## HOBBIES
 
@@ -15,4 +13,5 @@ __________________________
     * Football
     * Basketball
 2. Movies 
-
+   * Inception
+   * The Last Samurai
